@@ -1,0 +1,1 @@
+﻿public enum SqlMacroTypes { String, Number, Date }
